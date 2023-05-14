@@ -45,4 +45,4 @@ I learned how to position background images and add an overlay to that image.
 ## Author
 
 - Frontend Mentor - [@thomaserdmenger](https://www.frontendmentor.io/profile/thomaserdmenger)
-- GitHub - [@ythomaserdmenger](https://github.com/thomaserdmenger)
+- GitHub - [@thomaserdmenger](https://github.com/thomaserdmenger)
